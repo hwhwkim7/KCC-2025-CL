@@ -1,0 +1,31 @@
+make
+
+
+./core strike 50&&
+./core mexican 50&&
+./core karate 50&&
+./core football 50&&
+./core polblogs 50&&
+./core facebook 50&&
+./core brightkite 50&&
+./core gowalla 50&&
+./core amazon 50
+
+./core strike 10&
+./core mexican 10&
+./core karate 10&
+./core football 10&
+./core polblogs 10&
+./core wisconsin 10&
+
+./core strike 11&
+./core mexican 11&
+./core karate 11&
+./core football 11&
+./core polblogs 11&
+./core wisconsin 11&
+
+./core facebook 10&
+./core brightkite 10&
+./core gowalla 10&
+./core amazon 10
