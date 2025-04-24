@@ -1,3 +1,4 @@
+dataset,method,sample_rate,hop,budget,coreness_loss,follower_computation
 strike,GCN_sample,1.0,0,0,0.0,24.0
 strike,GCN_sample,1.0,0,1,4.0,4.0
 strike,GCN_sample,1.0,0,2,4.0,0.0
